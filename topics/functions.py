@@ -3,7 +3,6 @@ def elevatorConv():
     us_floor = eu_floor + 1
     return us_floor
 
-
 def sample_try_except():
     prompt = input('Enter a Number: ')
     try:
@@ -16,8 +15,9 @@ def sample_try_except():
     else:
         return 'Not a number.'
 
-def largest_number(iter:list):
-    maxi = 0
+def largest_number(iter:list, control = None):
     for item in iter:
-        if item > maxi: maxi = item
-    return maxi
+        if control is None:
+            control = item
+        elif item > control: control = item
+    return control
