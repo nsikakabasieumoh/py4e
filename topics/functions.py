@@ -16,7 +16,7 @@ def sample_try_except():
     else:
         return 'Not a number.'
 
-def largest_number(iter):
+def largest_number(iter:list):
     maxi = 0
     for item in iter:
         if item > maxi: maxi = item
