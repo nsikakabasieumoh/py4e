@@ -15,3 +15,9 @@ def sample_try_except():
         return 'Nice Work.'
     else:
         return 'Not a number.'
+
+def largest_number(iter):
+    maxi = 0
+    for item in iter:
+        if item > maxi: maxi = item
+    return maxi
