@@ -21,3 +21,15 @@ def largest_number(iter:list, control = None):
             control = item
         elif item > control: control = item
     return control
+
+def search_file(link):
+    # verify file link
+    try:
+        data = open(link)
+    except:
+        print('Nothing Found. Check link again')
+        quit()
+    
+    for line in data:
+        if line.startswith('From:'):
+            print(line.strip())
