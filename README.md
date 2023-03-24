@@ -1,19 +1,23 @@
 # Python Lessons
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/nsikakabasieumoh/lessons)
 ![GitHub](https://img.shields.io/github/license/nsikakabasieumoh/lessons)
-![contributors](https://img.shields.io/github/contributors/nsikakabasieumoh/lessons) 
+![contributors](https://img.shields.io/github/contributors/nsikakabasieumoh/lessons)
 ![codesize](https://img.shields.io/github/languages/code-size/nsikakabasieumoh/lessons)
 
 This repository is on my lessons from youtube python videos. I explored different basic python topics and built functions on some
 
-# Installation and Setup
+## Installation and Setup
+
 In this section, I will outline the resources used for this in project.
 
-## Codes and Resources Used
+### Codes and Resources Used
+
 - **Editor Used:**  Visual Studio Code
 - **Python Version:** Python 3.11.2
 
-# Code Structure
+## Code Structure
+
 ```bash
 ├── files
 │   ├── mbox-short.txt
@@ -27,15 +31,19 @@ In this section, I will outline the resources used for this in project.
 └── main.py
 ```
 
-# Future work
+## Future work
+
 I will work on beginner python projects like creating a simple calculator, a guessing game, a dice roller etc. To improve my python knowledge and test my understanding.
 
-# Acknowledgments/References
+## Acknowledgments/References
+
 I learnt python using these videos:
+
 - [Python for Everybody by Dr. Chuck Severance](https://youtu.be/8DvywoWv6fI)
 - [Intermediate Python by Corey Schafer](https://youtu.be/HGOBQPFzWKo?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
-# License
+## License
+
 For this github repository, the License used is [MIT License](https://opensource.org/license/mit/)
 
 <!--
