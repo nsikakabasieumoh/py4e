@@ -33,7 +33,7 @@ In this section, I will outline the resources used for this in project.
 
 ## Future work
 
-I will work on [beginner python projects](https://github.com/nsikakabasieumoh/python-beginner-level-projects) like creating a simple calculator, a guessing game, a dice roller etc. To improve my python knowledge and test my understanding.
+I will work on  beginner python projects like creating a temperature converter, a simple calculator, a guessing game, a dice roller etc. To improve my python knowledge and test my understanding.
 
 ## Acknowledgments/References
 
