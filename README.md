@@ -19,6 +19,7 @@ In this section, I will outline the resources used for this in project.
 ## Code Structure
 
 ```bash
+├── exercises
 ├── files
 │   ├── mbox-short.txt
 ├── files
